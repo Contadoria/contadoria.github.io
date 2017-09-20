@@ -1,0 +1,25 @@
+---
+title: Projetos
+heading: Projetos
+subtitle: Planilhas e complementos desenvolvidos e em desenvolvimento.
+---
+
+<section class="diagonal patterned">
+	<div class="container">
+		<ul class="image-grid">
+			{% for project in site.projects %}
+				<li>
+					<a href="{{ site.baseurl }}{{ project.url }}">
+						<img src="{% include relative-src.html src=project.image_path %}" alt="{{ person.name }}">
+						<div class="details">
+							<div class="name">{{ project.name }}</div>
+							<div class="position">{{ project.subtitle }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+	</div>
+</section>

@@ -1,0 +1,25 @@
+---
+name: Cálculos Previdenciários
+subtitle: Complemento para facilitar o preenchimento e uso das planilhas de cálculo
+external_url: https://github.com/contadoria/CalculosPrevidenciarios
+image_path: /images/projects/CalculosPrevidenciarios.png
+---
+
+Complemento do *Google Sheets* com diversas ferramentas para facilitar o preenchimento e o uso das planilhas de cálculo. Algumas das ferramentas podem ser também utilizadas também em outras planilhas.
+
+#### Características
+
+* Área de transferência para copiar dados entre planilhas
+* Possibilidade de salvar dados de configuração do usuário
+* Extração automática para a planilha de dados do SisJEF, CNIS, PLENUS e HISCRE
+* Ferramenta de registro estatístico
+* Calculadoras de intervalo, prescrição e tempo de contribuição
+* Atualização de índices e tabelas
+
+#### Como instalar
+
+1. Peça para ser incluído no grupo de usuários.
+2. Vá até a [página do complemento](https://chrome.google.com/webstore/detail/c%C3%A1lculos-previdenci%C3%A1rios/cjeahogdijapbbnndojpidgdneeepnla?hl=pt-BR){:target="_blank"}.
+3. Clique no botão "+".
+4. Siga as instruções de instalação.
+5. O complemento estará disponível em todas as suas planilhas.

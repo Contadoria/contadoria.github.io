@@ -1,0 +1,37 @@
+---
+title: Contadoria
+---
+
+<section class="hero diagonal">
+	<div class="container">
+		<h2>Contadoria</h2>
+		<p>Links dos projetos, notícias, atualizações e instruções básicas de instalação.</p>
+		<p>
+			<a class="button" target="_blank" href="https://github.com/contadoria">
+				<img src="{{ site.baseurl }}/images/github.svg" alt="Github" width="28">					
+				<span>Github</span>
+			</a>
+			<a class="button" target="_blank" href="https://contadoria.github.io/Tutoriais">
+				<img src="{{ site.baseurl }}/images/school.svg" alt="Tutoriais" width="28">					
+				<span>Tutoriais</span>
+			</a>
+		</p>
+	</div>
+</section>
+
+<section class="diagonal patterned">
+	<div class="container halves">
+		<div>
+			<h3>Projetos</h3>
+			<p>Planilhas de cálculo e rotinas de automação em <em>Google Sheets</em>.</p>
+			<p><a style="color: white;" href="{{ site.baseurl }}/projetos/">Veja todos &rarr;</a></p>
+		</div>
+		<div>
+			<ul class="image-grid">
+				{% for project in site.projects limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ project.url }}"><img src="{% include relative-src.html src=project.image_path %}"></a></li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</section>

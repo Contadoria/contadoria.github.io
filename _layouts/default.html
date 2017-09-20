@@ -1,0 +1,35 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="Jekyll v{{ jekyll.version }}">
+	<title>Contadoria | Principal</title>
+
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
+
+	<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+
+</head>
+	<body>
+		<header>
+			<div class="container">
+				<h1 class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" alt="Contadoria" width="160"></a></h1>
+				{% include navigation.html %}
+			</div>
+		</header>
+		{{ content }}
+
+		{% include footer.html %}
+
+		<script>
+			document.getElementById("open-nav").onclick = function () {
+				document.body.classList.toggle("nav-open");
+				return false;
+			};
+		</script>
+	</body>
+</html>
