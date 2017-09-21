@@ -10,8 +10,8 @@ Pouco mais de um mês após o início do projeto, estava pronta, no dia 15/12/20
 A planilha tinha então as seguintes funcionalidades:
  
 * cálculo de quaisquer benefícios, inclusive anteriores à CF/88;
-* atualziação de índices;
-* opção pelos critérios da Resolução 267 ou 134;
+* atualização de índices;
+* possibilidade de optar pelos critérios da Resolução 267 ou 134;
 * fixação de competências de atualização pretéritas;
 * possibilidade de atualização de cálculos sem necessidade de preparar nova planilha;
 * demonstrativos em pdf;
@@ -24,5 +24,5 @@ A planilha tinha então as seguintes funcionalidades:
 
 As ferramentas administrativas e as funcionalidades de preenchimento automático de dados ainda não estavam concluídas, mas já se tinha o seguinte:
 
-* planilha central de fornecimento de índices e taxas de juros, que já buscados diariamente esses dados diretamente das fontes oficiais (BACEN e IBGE) de forma automática, por meio de um *trigger*;
+* planilha central de obtenção e distribuição de índices e taxas de juros a partir de dados colhidos diretamente das fontes oficiais (BACEN e IBGE);
 * registro centralizado dos usuários autorizados e de erros.
