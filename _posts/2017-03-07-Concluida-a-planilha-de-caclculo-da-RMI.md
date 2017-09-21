@@ -9,8 +9,8 @@ No dia 07/03/2017, a equipe de desenvolvedores anunciou que a primeira versão d
 
 Estavam, portanto, em fase de testes, as planilhas de atrasados e de RMI.
 
-Também já estavam prontas as ferramentas de extração de dados do CNIS, do SisJEF, do HISCRE e do PLENUS. Planejava-se converter todas as ferramentas auxiliares em um complemento, para ser disponibilizado via *Chrome Webstore* 
+Também já estavam prontas as ferramentas de extração de dados do CNIS, do SisJEF, do HISCRE e do PLENUS. Planejava-se converter todas as ferramentas auxiliares em um complemento, para ser disponibilizado via *Chrome Webstore*.
 
-Nesse período foi concebido o método do "link oculto" para que os usuários pudessem acessar as planilhas a partir do arquivo "pdf" juntado ao processo.
+Nesse período foi concebido o método do "link oculto" para que os usuários pudessem acessar a planilha a partir do arquivo "pdf" juntado ao processo, sem necessidade de manutenção de banco de dados separado.
 
-Foi anunciada a conclusão da estrutura administrativa com log de erros, planilha de distribuição de índices e planilha de distribuição de tabelas e o início do desenvolvimento da planilha de cálculo de tempo de contribuição.
+Foi ainda anunciada a conclusão da estrutura administrativa com um log de erros, uma planilha de distribuição de índices e uma planilha de distribuição de tabelas. Deu-se início ao desenvolvimento da planilha de cálculo de tempo de contribuição.
