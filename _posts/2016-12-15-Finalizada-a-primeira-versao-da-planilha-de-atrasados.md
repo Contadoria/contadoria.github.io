@@ -1,6 +1,6 @@
 ---
 timestamp: "15/12/2016"
-title: Fica pronta a primeira versão da planilha de atrasados
+title: Finalizada a primeira versão da planilha de atrasados
 categories:
   - histórico
 ---
