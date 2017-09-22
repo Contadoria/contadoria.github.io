@@ -5,7 +5,7 @@ external_url: https://github.com/contadoria/DesenvolvimentoDePlanilhas
 image_path: /images/projects/DesenvolvimentoDePlanilhas.png
 ---
 
-Complemento do *Google Sheets* com diversas ferramentas para facilitar o desenvolvimento de planilhas de cálculo.
+Complemento do *Google Sheets* com ferramentas para facilitar o desenvolvimento de planilhas de cálculo.
 
 #### Características
 
