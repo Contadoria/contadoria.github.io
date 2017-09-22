@@ -1,6 +1,6 @@
 ## Projetos da Contadoria
 
-Este é o site principal dos projetos da **Contadoria**, organização criada no *Github* para o desenvolvimento de ferramentas em *Google Sheets* e *Google Apps Script* para facilitar e tornar mais transparentes e confiáveis os cálculos de benefícios previdenciários.
+Este repositório hospeda os arquivos do site principal dos projetos da **Contadoria**, organização criada no *Github* para o desenvolvimento de ferramentas em *Google Sheets* e *Google Apps Script* para facilitar e tornar mais transparentes e confiáveis os cálculos de benefícios previdenciários.
 
 O site concentra os links, notícias, atualizações e instruções básicas de instalação das ferramentas existentes.
 
@@ -12,4 +12,4 @@ As fórmulas e os códigos são publicados no *Github* para organizar o fluxo de
 
 ### Créditos
 
-Este site foi desenvolvido a partir do template "_Urban_" para Jekyll criado pela [CloudCannon](http://cloudcannon.com/) e disponibilizado sob a licença MIT.
+O site foi desenvolvido a partir do template "_Urban_" para Jekyll criado pela [CloudCannon](http://cloudcannon.com/) e disponibilizado sob a licença MIT.
