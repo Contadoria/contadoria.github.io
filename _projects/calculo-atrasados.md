@@ -1,7 +1,7 @@
 ---
 name: Cálculo Atrasados
 subtitle: Planilha de apuração das prestações vencidas
-external_url: https://github.com/contadoria/CalculoAtrasados
+external_url: https://contadoria.github.io/CalculoAtrasados
 image_path: /images/projects/CalculoAtrasados.png
 ---
 

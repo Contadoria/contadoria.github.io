@@ -1,7 +1,7 @@
 ---
 name: Cálculo TC
 subtitle: Planilha de apuração do tempo de contribuição
-external_url: https://github.com/contadoria/CalculoTC
+external_url: https://contadoria.github.io/CalculoTC
 image_path: /images/projects/CalculoTC.png
 ---
 

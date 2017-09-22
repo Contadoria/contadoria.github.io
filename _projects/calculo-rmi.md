@@ -1,7 +1,7 @@
 ---
 name: Cálculo RMI
 subtitle: Planilha de apuração da renda mensal inicial
-external_url: https://github.com/contadoria/CalculoRMI
+external_url: https://contadoria.github.io/CalculoRMI
 image_path: /images/projects/CalculoRMI.png
 ---
 
