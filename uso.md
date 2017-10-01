@@ -3,6 +3,7 @@ layout: legal
 title: Termos de Uso
 heading: Termos de Uso
 subtitle: 
+timestamp: 2017-10-01T14:33:23.651Z
 ---
 
 ## Abrangência
@@ -17,3 +18,6 @@ A utilização de qualquer *software* fornecido pela organização **Contadoria*
 1. O *software* pode ser utilizado para qualquer finalidade, pública ou particular, pessoal ou profissional, a título gratuito ou oneroso, desde que referida atividade não envolva a prática, direta ou indireta, de qualquer ilicitude ou imoralidade pelos usuários ou por terceiros agindo por meio dos usuários.
 1. No momento em que instalarem, copiarem ou de alguma outra forma utilizarem o *software*, os usuários estarão no mesmo ato assumindo o compromisso de (i) observar rigoramente todos os termos das licenças a que os códigos estejam vinculados; (ii) não empregar qualquer parte do código ou de suas funcionalidades para fins ilícitos ou imorais; e (iii) agir não como "clientes" passivos, mas como efetivos parceiros e colaboradores da **Contadoria**, prestando aos desenvolvedores, na medida de sua disponibilidade e de seus conhecimentos, todo o auxílio possível na identificação e na resolução de defeitos ("*bugs*") ou de falhas de concepção dos códigos.
 1. Ainda que o *software* ofereça recursos de consulta a índices de inflação ou a taxas de juros, oficiais ou não, não é de responsabilidade dos desenvolvedores verificar *pari passu* a exatidão ou correção desses dados, nem a idoneidade das fontes. Nesses casos também os usuários deverão agir como parceiros e colaboradores da **Contadoria**, procurando identificar os erros e auxiliar em sua correção.
+
+
+<p style="text-align: right"><small><em>Última modificação: {{ page.timestamp | date: '%d/%m/%Y %H:%M:%S' }} UTC</em></small></p>
