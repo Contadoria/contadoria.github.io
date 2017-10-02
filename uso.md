@@ -3,7 +3,7 @@ layout: legal
 title: Termos de Uso
 heading: Termos de Uso
 subtitle: 
-timestamp: 2017-10-01T14:33:23.651Z
+timestamp: 2017-10-02T02:50:27.012Z
 ---
 
 ## Abrangência
