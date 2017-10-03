@@ -19,7 +19,7 @@ categories:
   Note-se, ainda, que a técnica de transposição da coluna `DataBase` foi alterada.
   No lugar de:
   ~~~
-  DESLOC(DataBase;LinhaInicialTabelaIndices-**2**;0;TotalCompetencias)
+  DESLOC(DataBase;LinhaInicialTabelaIndices-2;0;TotalCompetencias)
   ~~~
   Agora tem-se:
   ~~~
@@ -29,5 +29,5 @@ categories:
 
 **Aprimoramentos**
 
-+ A mesma técnica de inclusão da linha de título na matriz para deslocamento da área de dados foi também aplicada nas colunas dos modificadores e em `Piso`, `Teto`, `IndicesReajuste`, `IndiceMensalAtualizacao`, `IndiceMensalAtualizacaoAjustado`, `JurosTaxaMensal`
++ A mesma técnica de inclusão da linha de título na matriz para deslocamento da área de dados foi também aplicada nas colunas dos modificadores e em `Piso`, `Teto`, `IndicesReajuste`, `IndiceMensalAtualizacao`, `IndiceMensalAtualizacaoAjustado` e `JurosTaxaMensal`.
 Não foi possível implementar essa técnica em `DescontoRenda` nem em `DescontoAbono` porque a análise da fórmula resultava em erro. 
