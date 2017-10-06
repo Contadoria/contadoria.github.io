@@ -5,5 +5,5 @@ categories:
   - atualizações
 ---
 
-** Aprimoramentos **
+**Aprimoramentos**
 + Inserida informação sobre campos obrigatórios na página `BeneficiosPagos` 
