@@ -18,6 +18,5 @@ Planilha de cálculo das prestações vencidas de benefício previdenciário.
 #### Como usar
 
 1. Peça para ser incluído no grupo de usuários.
-2. Vá até a pasta [Distribuição](https://drive.google.com/drive/folders/0B2B1B7RRK5HmS0I2clRTTTJiMXc){:target="_blank"}.
-3. Abra a planilha.
-4. Selecione `Arquivo > Fazer uma cópia...`
+2. Instale o complemento Contadoria Planilhas por meio deste [link](https://script.google.com/macros/s/AKfycbxE5JrFH8h-IK36NZ-8hFtpdUH03Pe9Zs0l2Ysi4O80TnJjE3E/exec){:target="_blank"}.
+3. No seu drive, aparecerá a opção de criar planilhas da Contadoria. Utilize essa opção para começar uma planilha nova.
