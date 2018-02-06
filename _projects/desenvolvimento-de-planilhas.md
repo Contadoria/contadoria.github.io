@@ -14,7 +14,7 @@ Complemento do *Google Sheets* com ferramentas para facilitar o desenvolvimento 
 * Gerenciamento de ids e urls armazenados no "ScriptProperties"
 * Criação de documentação em Google Docs e MD
 * Atualização automática do repositório no Github
-* Limpexa de dados, notas, exclusão e ocultação de páginas
+* Limpeza de dados, notas, exclusão e ocultação de páginas
 
 #### Como instalar
 
