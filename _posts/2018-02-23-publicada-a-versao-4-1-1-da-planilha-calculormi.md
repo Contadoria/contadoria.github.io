@@ -6,4 +6,4 @@ categories:
 ---
 
 **Correção de bugs**
-+Corrigido script de evolução de renda mensal quando há apenas uma competência
++ Corrigido script de evolução de renda mensal quando há apenas uma competência

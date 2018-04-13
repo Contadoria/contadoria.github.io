@@ -6,4 +6,4 @@ categories:
 ---
 
 **Correção de bugs**
-+Corrigida visualização da idade em `DemonstrativoNovo`, utilizando a fórmula ARREDONDAR.PARA.BAIXO
++ Corrigida visualização da idade em `DemonstrativoNovo`, utilizando a fórmula `ARREDONDAR.PARA.BAIXO`
