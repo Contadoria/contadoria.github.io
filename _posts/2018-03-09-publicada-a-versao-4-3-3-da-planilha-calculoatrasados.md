@@ -6,4 +6,4 @@ categories:
 ---
 
 **Correção de bugs**
-+Correção no `DemonstrativoNovo`referente aos juros de mora na hipótese de haver `PercentualAcordo`
++ Correção no `DemonstrativoNovo`referente aos juros de mora na hipótese de haver `PercentualAcordo`

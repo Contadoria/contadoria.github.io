@@ -6,5 +6,5 @@ categories:
 ---
 
 **Correção de bugs**
-+Inclusão do intervalo `DataAtualizacaoInformada`, que possibilita verificação da última competência possível para efeito de atualização;
-+Evolução de valores até a competência do mês do `Protocolo` para possibilitar apuração do valor da causa quando o mês do protocolo é igual ao mês da atualização.
++ Inclusão do intervalo `DataAtualizacaoInformada`, que possibilita verificação da última competência possível para efeito de atualização;
++ Evolução de valores até a competência do mês do `Protocolo` para possibilitar apuração do valor da causa quando o mês do protocolo é igual ao mês da atualização.

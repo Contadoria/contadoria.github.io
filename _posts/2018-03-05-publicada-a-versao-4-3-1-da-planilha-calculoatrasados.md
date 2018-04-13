@@ -6,5 +6,5 @@ categories:
 ---
 
 **Correção de bugs**
-+Correção dos valores visualizados de principal e juros de mora quando há renúncia ou acordo
-+Inclusão da opção `4 - Não apurar` para `CriterioAlcada`
++ Correção dos valores visualizados de principal e juros de mora quando há renúncia ou acordo
++ Inclusão da opção `4 - Não apurar` para `CriterioAlcada`

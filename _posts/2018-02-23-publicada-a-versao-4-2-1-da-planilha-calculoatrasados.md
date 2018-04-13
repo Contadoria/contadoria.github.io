@@ -6,6 +6,6 @@ categories:
 ---
 
 **Correção de bugs**
-+Adicionados intervalos para limpeza automática dos campos `DataInicioIPCAE` e `PercentualAcordo`
-+Corrigida visualização da correção monetária quando é aplicado apenas IPCA-E, ou seja, desde a `CompetenciaInicial`
-+Corrigido script de evolução de renda mensal quando há apenas uma competência
++ Adicionados intervalos para limpeza automática dos campos `DataInicioIPCAE` e `PercentualAcordo`
++ Corrigida visualização da correção monetária quando é aplicado apenas IPCA-E, ou seja, desde a `CompetenciaInicial`
++ Corrigido script de evolução de renda mensal quando há apenas uma competência
