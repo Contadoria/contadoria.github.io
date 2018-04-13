@@ -6,5 +6,5 @@ categories:
 ---
 
 **Correção de bugs**
-+Corrigida fórmula das idades atingidas no `DemonstrativoNovo` 
-+`DemonstrativoNovo`: supressão das informações referentes à `DPE` e `DPL` quando a opção `AjustarMarcosTemporais` estiver desabilitada
++ Corrigida fórmula das idades atingidas no `DemonstrativoNovo` 
++ `DemonstrativoNovo`: supressão das informações referentes à `DPE` e `DPL` quando a opção `AjustarMarcosTemporais` estiver desabilitada
