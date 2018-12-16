@@ -3,7 +3,7 @@ layout: legal
 title: Política de Privacidade
 heading: Política de Privacidade
 subtitle:
-timestamp: 2017-10-02T02:50:27.012Z
+timestamp: 2018-12-16T14:43:00.000Z
 ---
 
 ## Abrangência
@@ -18,7 +18,7 @@ Todas as informações dos usuários porventura necessárias ao funcionamento do
 
 Todo o procedimento de autenticação será gerenciado integralmente pelo *Google*, sem que os desenvolvedores ou terceiros tenham acesso a qualquer informação sobre o usuário senão as que forem disponibilizadas pelo referido procedimento de autenticação.
 
-Os desenvolvedores não obterão, armazenarão ou cederão qualquer informação sigilosa dos usuários sem que estes tenham prévio conhecimento e dêem o seu expresso consentimento.
+Os desenvolvedores não obterão, armazenarão ou cederão qualquer informação sigilosa dos usuários sem que estes tenham prévio conhecimento e dêem o seu expresso consentimento, **SALVO APENAS NA HIPÓTESE DE REGISTRO DE ERROS, QUANDO OS DESENVOLVEDORES PODERÃO MANTER O E-MAIL DO USUÁRIO ARMAZENADO EM BANCO DE DADOS JUNTAMENTE COM AS INFORMAÇÕES DO ERRO E O LINK PARA O DOCUMENTO OU PARA A PLANILHA ONDE O ERRO OCORREU, A FIM DE QUE POSSAM CONTATAR O USUÁRIO PARA OBTER MAIORES INFORMAÇÕES, SE NECESSÁRIO. O ARMAZENAMENTO DO LINK PARA O DOCUMENTO OU PARA A PLANILHA NÃO IMPLICA QUALQUER ALTERAÇÃO NAS PERMISSÕES DE ACESSO AOS RESPECTIVOS CONTEÚDOS. MESMO SE OS DESENVOLVEDORES CONSIDEREM ÚTIL OU NECESSÁRIO EXAMINAR O CONTEÚDO DO ARQUIVO PARA FINS DE DEPURAÇÃO, CABERÁ EXCLUSIVAMENTE AO USUÁRIO DECIDIR SE COMPARTILHARÁ OU NÃO O DOCUMENTO.**
 
 
 <p style="text-align: right"><small><em>Última modificação: {{ page.timestamp | date: '%d/%m/%Y %H:%M:%S' }} UTC</em></small></p>
