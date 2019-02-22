@@ -19,7 +19,7 @@ Complemento do *Google Sheets* com ferramentas para facilitar o preenchimento e 
 #### Como instalar
 
 1. Peça para ser incluído no grupo de usuários.
-2. Vá até a [página do complemento](https://chrome.google.com/webstore/detail/contadoria-c%C3%A1lculos/jakfnmamaegnnpojhbcapbhjjjdkhdml){:target="_blank"}.
+2. Vá até a [página do complemento](https://chrome.google.com/webstore/detail/c%C3%A1lculos-previdenci%C3%A1rios/cjeahogdijapbbnndojpidgdneeepnla?hl=pt-BR){:target="_blank"}.
 3. Clique no botão "+".
 4. Siga as instruções de instalação.
 5. O complemento estará disponível em todas as suas planilhas.
