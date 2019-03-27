@@ -289,7 +289,12 @@ section {
 	padding: 10px;
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 	transition: 0.3s;
+	border-radius: 3px;
+}
+
+.stats-block h4 {
 	color: grey;
+	font-size: 12pt;
 }
 
 .stats-block:hover {
