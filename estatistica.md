@@ -16,7 +16,7 @@ subtitle: Dados de Uso
     </div>
     <div class="stats-block">
         <h4>Dados de Uso 2020</h4>
-            <iframe width="400" height="300" src="https://datastudio.google.com/u/0/reporting/514a05ab-6607-42ba-bdc3-e04433fc9b9a/page/A7dS" frameborder="0" style="border:0" allowfullscreen></iframe>            
+            <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/514a05ab-6607-42ba-bdc3-e04433fc9b9a/page/A7dS" frameborder="0" style="border:0" allowfullscreen></iframe>            
     </div>
 
 
